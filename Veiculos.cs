@@ -4,9 +4,9 @@ internal class Veiculos
 
     protected string modelo { get; set; }
 
-    public Veiculos(string marca string modelo)
+    public Veiculos(string marca, string modelo)
     {
-        this.marca = marca
-        this.modelo = modelo
+        this.marca = marca;
+        this.modelo = modelo;
     }
 }
