@@ -1,0 +1,14 @@
+C:\Users\20261038060007\Desktop\AulaPOO\AulaPOO\obj\Debug\net10.0\AulaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20261038060007\Desktop\AulaPOO\AulaPOO\obj\Debug\net10.0\AulaPOO.AssemblyInfoInputs.cache
+C:\Users\20261038060007\Desktop\AulaPOO\AulaPOO\obj\Debug\net10.0\AulaPOO.AssemblyInfo.cs
+C:\Users\20261038060007\Desktop\AulaPOO\AulaPOO\obj\Debug\net10.0\AulaPOO.csproj.CoreCompileInputs.cache
+C:\Users\20261038060007\Desktop\AulaPOO\AulaPOO\bin\Debug\net10.0\AulaPOO.exe
+C:\Users\20261038060007\Desktop\AulaPOO\AulaPOO\bin\Debug\net10.0\AulaPOO.deps.json
+C:\Users\20261038060007\Desktop\AulaPOO\AulaPOO\bin\Debug\net10.0\AulaPOO.runtimeconfig.json
+C:\Users\20261038060007\Desktop\AulaPOO\AulaPOO\bin\Debug\net10.0\AulaPOO.dll
+C:\Users\20261038060007\Desktop\AulaPOO\AulaPOO\bin\Debug\net10.0\AulaPOO.pdb
+C:\Users\20261038060007\Desktop\AulaPOO\AulaPOO\obj\Debug\net10.0\AulaPOO.dll
+C:\Users\20261038060007\Desktop\AulaPOO\AulaPOO\obj\Debug\net10.0\refint\AulaPOO.dll
+C:\Users\20261038060007\Desktop\AulaPOO\AulaPOO\obj\Debug\net10.0\AulaPOO.pdb
+C:\Users\20261038060007\Desktop\AulaPOO\AulaPOO\obj\Debug\net10.0\AulaPOO.genruntimeconfig.cache
+C:\Users\20261038060007\Desktop\AulaPOO\AulaPOO\obj\Debug\net10.0\ref\AulaPOO.dll

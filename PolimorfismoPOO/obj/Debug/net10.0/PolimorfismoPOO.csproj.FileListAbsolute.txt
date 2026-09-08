@@ -1,0 +1,14 @@
+C:\Users\20261038060007\Desktop\AulaPOO real\PolimorfismoPOO\obj\Debug\net10.0\PolimorfismoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20261038060007\Desktop\AulaPOO real\PolimorfismoPOO\obj\Debug\net10.0\PolimorfismoPOO.AssemblyInfoInputs.cache
+C:\Users\20261038060007\Desktop\AulaPOO real\PolimorfismoPOO\obj\Debug\net10.0\PolimorfismoPOO.AssemblyInfo.cs
+C:\Users\20261038060007\Desktop\AulaPOO real\PolimorfismoPOO\obj\Debug\net10.0\PolimorfismoPOO.csproj.CoreCompileInputs.cache
+C:\Users\20261038060007\Desktop\AulaPOO real\PolimorfismoPOO\bin\Debug\net10.0\PolimorfismoPOO.exe
+C:\Users\20261038060007\Desktop\AulaPOO real\PolimorfismoPOO\bin\Debug\net10.0\PolimorfismoPOO.deps.json
+C:\Users\20261038060007\Desktop\AulaPOO real\PolimorfismoPOO\bin\Debug\net10.0\PolimorfismoPOO.runtimeconfig.json
+C:\Users\20261038060007\Desktop\AulaPOO real\PolimorfismoPOO\bin\Debug\net10.0\PolimorfismoPOO.dll
+C:\Users\20261038060007\Desktop\AulaPOO real\PolimorfismoPOO\bin\Debug\net10.0\PolimorfismoPOO.pdb
+C:\Users\20261038060007\Desktop\AulaPOO real\PolimorfismoPOO\obj\Debug\net10.0\PolimorfismoPOO.dll
+C:\Users\20261038060007\Desktop\AulaPOO real\PolimorfismoPOO\obj\Debug\net10.0\refint\PolimorfismoPOO.dll
+C:\Users\20261038060007\Desktop\AulaPOO real\PolimorfismoPOO\obj\Debug\net10.0\PolimorfismoPOO.pdb
+C:\Users\20261038060007\Desktop\AulaPOO real\PolimorfismoPOO\obj\Debug\net10.0\PolimorfismoPOO.genruntimeconfig.cache
+C:\Users\20261038060007\Desktop\AulaPOO real\PolimorfismoPOO\obj\Debug\net10.0\ref\PolimorfismoPOO.dll
