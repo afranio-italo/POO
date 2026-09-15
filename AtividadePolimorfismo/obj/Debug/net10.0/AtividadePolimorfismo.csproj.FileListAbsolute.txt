@@ -12,3 +12,4 @@ C:\Users\20261038060007\Desktop\ProjetosPOO\AtividadePolimorfismo\obj\Debug\net1
 C:\Users\20261038060007\Desktop\ProjetosPOO\AtividadePolimorfismo\obj\Debug\net10.0\AtividadePolimorfismo.pdb
 C:\Users\20261038060007\Desktop\ProjetosPOO\AtividadePolimorfismo\obj\Debug\net10.0\AtividadePolimorfismo.genruntimeconfig.cache
 C:\Users\20261038060007\Desktop\ProjetosPOO\AtividadePolimorfismo\obj\Debug\net10.0\ref\AtividadePolimorfismo.dll
+C:\Users\20261038060007\Desktop\ProjetosPOO\AtividadePolimorfismo\obj\Debug\net10.0\AtividadePolimorfismo.sourcelink.json
