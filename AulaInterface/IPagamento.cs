@@ -5,9 +5,6 @@ internal IPagamento
     bool ProcessarPagamento(decimal valor);
 
     string ObterComprovante();
-    {
-        
-    }
 
     void CancelarTransacao();
 }
