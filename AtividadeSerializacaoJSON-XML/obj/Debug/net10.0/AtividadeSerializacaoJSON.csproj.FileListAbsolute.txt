@@ -1,0 +1,5 @@
+C:\Users\20261038060007\Desktop\ProjetosPOO\AtividadeSerializacaoJSON-XML\obj\Debug\net10.0\AtividadeSerializacaoJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20261038060007\Desktop\ProjetosPOO\AtividadeSerializacaoJSON-XML\obj\Debug\net10.0\AtividadeSerializacaoJSON.AssemblyInfoInputs.cache
+C:\Users\20261038060007\Desktop\ProjetosPOO\AtividadeSerializacaoJSON-XML\obj\Debug\net10.0\AtividadeSerializacaoJSON.AssemblyInfo.cs
+C:\Users\20261038060007\Desktop\ProjetosPOO\AtividadeSerializacaoJSON-XML\obj\Debug\net10.0\AtividadeSerializacaoJSON.csproj.CoreCompileInputs.cache
+C:\Users\20261038060007\Desktop\ProjetosPOO\AtividadeSerializacaoJSON-XML\obj\Debug\net10.0\AtividadeSerializacaoJSON.sourcelink.json
