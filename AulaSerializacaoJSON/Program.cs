@@ -20,8 +20,6 @@ string WriteJSON()
     return path;
 }
 
-Console.WriteLine($"Arquivo JSON salvo em: {WriteJSON()}");
-
 void ReadJSON()
 {
     var path = Environment.GetFolderPath

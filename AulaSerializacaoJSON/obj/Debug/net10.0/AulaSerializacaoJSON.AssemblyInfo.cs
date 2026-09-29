@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AulaSerializacaoJSON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29870ad5cd07cd059a65e75660f538153b4144e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4914dd5a15e11e1c807e251de86437cad48f00f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AulaSerializacaoJSON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AulaSerializacaoJSON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
