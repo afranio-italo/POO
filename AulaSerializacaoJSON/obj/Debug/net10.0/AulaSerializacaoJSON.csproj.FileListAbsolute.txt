@@ -1,0 +1,15 @@
+C:\Users\20261038060007\Desktop\ProjetosPOO\AulaSerializacaoJSON\bin\Debug\net10.0\AulaSerializacaoJSON.exe
+C:\Users\20261038060007\Desktop\ProjetosPOO\AulaSerializacaoJSON\bin\Debug\net10.0\AulaSerializacaoJSON.deps.json
+C:\Users\20261038060007\Desktop\ProjetosPOO\AulaSerializacaoJSON\bin\Debug\net10.0\AulaSerializacaoJSON.runtimeconfig.json
+C:\Users\20261038060007\Desktop\ProjetosPOO\AulaSerializacaoJSON\bin\Debug\net10.0\AulaSerializacaoJSON.dll
+C:\Users\20261038060007\Desktop\ProjetosPOO\AulaSerializacaoJSON\bin\Debug\net10.0\AulaSerializacaoJSON.pdb
+C:\Users\20261038060007\Desktop\ProjetosPOO\AulaSerializacaoJSON\obj\Debug\net10.0\AulaSerializacaoJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20261038060007\Desktop\ProjetosPOO\AulaSerializacaoJSON\obj\Debug\net10.0\AulaSerializacaoJSON.AssemblyInfoInputs.cache
+C:\Users\20261038060007\Desktop\ProjetosPOO\AulaSerializacaoJSON\obj\Debug\net10.0\AulaSerializacaoJSON.AssemblyInfo.cs
+C:\Users\20261038060007\Desktop\ProjetosPOO\AulaSerializacaoJSON\obj\Debug\net10.0\AulaSerializacaoJSON.csproj.CoreCompileInputs.cache
+C:\Users\20261038060007\Desktop\ProjetosPOO\AulaSerializacaoJSON\obj\Debug\net10.0\AulaSerializacaoJSON.sourcelink.json
+C:\Users\20261038060007\Desktop\ProjetosPOO\AulaSerializacaoJSON\obj\Debug\net10.0\AulaSerializacaoJSON.dll
+C:\Users\20261038060007\Desktop\ProjetosPOO\AulaSerializacaoJSON\obj\Debug\net10.0\refint\AulaSerializacaoJSON.dll
+C:\Users\20261038060007\Desktop\ProjetosPOO\AulaSerializacaoJSON\obj\Debug\net10.0\AulaSerializacaoJSON.pdb
+C:\Users\20261038060007\Desktop\ProjetosPOO\AulaSerializacaoJSON\obj\Debug\net10.0\AulaSerializacaoJSON.genruntimeconfig.cache
+C:\Users\20261038060007\Desktop\ProjetosPOO\AulaSerializacaoJSON\obj\Debug\net10.0\ref\AulaSerializacaoJSON.dll
